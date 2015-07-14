@@ -1,0 +1,25 @@
+{
+  "name": "heavy-oauth",
+  "version": "1.0.0",
+  "description": "Heavy oauth server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hshoff/heavy-oauth.git"
+  },
+  "author": "@hshoff",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hshoff/heavy-oauth/issues"
+  },
+  "homepage": "https://github.com/hshoff/heavy-oauth#readme",
+  "dependencies": {
+    "express": "^4.13.1",
+    "passport": "^0.2.2",
+    "passport-slack": "0.0.3"
+  }
+}

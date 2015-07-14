@@ -1,0 +1,7 @@
+{
+  "name": "Heavy OAuth server",
+  "description": "OAuth for Heavy, a slack chrome extension",
+  "repository": "https://github.com/hshoff/heavy-oauth",
+  "logo": "",
+  "keywords": ["node", "express", "slack", "heavy"]
+}
